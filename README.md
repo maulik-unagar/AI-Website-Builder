@@ -31,20 +31,20 @@ An AI-powered website generator that lets users build fully responsive, customiz
 ---
 
 ## 📂  Set Up Environment Variables
-OPENAI_API_KEY=your_openai_key
-MONGODB_URI=your_mongodb_uri
-JWT_SECRET=your_jwt_secret
+- OPENAI_API_KEY=your_openai_key
+- MONGODB_URI=your_mongodb_uri
+- JWT_SECRET=your_jwt_secret
 
 
 ## Install Dependencies
-cd frontend
-npm install
-npm run dev
+- cd frontend
+- npm install
+- npm run dev
 
 ##Backend:
-cd backend
-npm install
-npm run dev
+- cd backend
+- npm install
+- npm run dev
 
 🛠 How to Use
 - Enter a prompt like: Build a modern portfolio for a UI designer.
