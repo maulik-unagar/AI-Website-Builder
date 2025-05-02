@@ -1,25 +1,22 @@
 # 🚀 AI Website Builder
 
-An AI-powered website generator that lets users build fully responsive, customizable websites with simple text prompts. Perfect for developers, freelancers, and business owners who want to create stunning websites in seconds—no coding required.
+An AI-powered website generator that lets users build fully responsive, customizable websites with simple text prompts.
 
 ---
 
 ## 🧠 Features
 
 - ✨ AI-Powered Web Generation
-- 🧱 Drag & Drop Editor (Optional)
-- 🎨 Built-in Templates (Landing Pages, Portfolios, Business Sites)
 - 📱 Fully Responsive Design (Mobile + Desktop)
 - 🌐 Real-time Live Preview
-- 💾 Export HTML/CSS Code
-- 🔒 User Authentication (Login/Signup)
 - 💡 GPT-based Prompt Interpretation
 
 ---
 
 ## 📸 Demo
 
-
+- Drive video link
+  https://drive.google.com/file/d/1SOIbmILjX-x3nn5ntC51LHXu3pmRUCh6/view?pli=1
 
 ---
 
@@ -27,10 +24,9 @@ An AI-powered website generator that lets users build fully responsive, customiz
 
 - **Frontend**: React.js + Vite + Tailwind CSS
 - **Backend**: Node.js + Express *(or FastAPI for Python)*
-- **AI**: OpenAI API (ChatGPT / GPT-4)
+- **AI**: anthropic claude API
 - **Database**: MongoDB / Firebase
 - **Auth**: Firebase Auth / JWT
-- **Hosting**: Vercel / Netlify / Render
 
 ---
 
@@ -51,29 +47,6 @@ npm install
 npm run dev
 
 🛠 How to Use
-Sign up or log in with your account.
-
-Enter a prompt like: Build a modern portfolio for a UI designer.
-
-AI generates a responsive HTML/CSS website.
-
-Customize and preview your site live.
-
-Download or host the site instantly.
-
-🚧 Roadmap
- Prompt-based page generation
-
- Responsive layout system
-
- HTML/CSS export feature
-
- Drag-and-drop custom editor
-
- AI-generated images (via DALL·E)
-
- Hosting with custom domain
-
- Stripe/Payment integration for premium features
-
-
+- Enter a prompt like: Build a modern portfolio for a UI designer.
+- AI will generate a responsive website.
+- Customize and preview your site live using promts
